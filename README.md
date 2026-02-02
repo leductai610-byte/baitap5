@@ -33,7 +33,7 @@ Giao diện mặc định với danh sách các nút màu sắc.
 ### 4.2. Chức năng đổi màu & Alert
 Khi bấm vào nút **GREEN**, nền đổi sang màu xanh và hiện thông báo.
 
-![Demo Màu Xanh](.t2.jpg)
+![Demo Màu Xanh](./t2.jpg)
 
 Khi bấm vào nút **YELLOW**, nền đổi sang màu vàng (chữ nút màu đen) và hiện thông báo.
 
