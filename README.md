@@ -28,15 +28,15 @@ Dựa trên yêu cầu của **Giáo trình Buổi 5** (Slide):
 ### 4.1. Giao diện chính
 Giao diện mặc định với danh sách các nút màu sắc.
 
-![Giao diện chính](./t1.png)
+![Giao diện chính](./t1.jpg)
 
 ### 4.2. Chức năng đổi màu & Alert
 Khi bấm vào nút **GREEN**, nền đổi sang màu xanh và hiện thông báo.
 
-![Demo Màu Xanh](.t2.png)
+![Demo Màu Xanh](.t2.jpg)
 
 Khi bấm vào nút **YELLOW**, nền đổi sang màu vàng (chữ nút màu đen) và hiện thông báo.
 
-![Demo Màu Vàng](./t3.png)
+![Demo Màu Vàng](./t3.jpg)
 
 ---
